@@ -1,0 +1,54 @@
+body 
+{
+    background-color:grey;
+}
+
+.box
+{
+    position : absolute;
+    top : 50%;
+    left : 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 8px 10px 7px rgb(206, 203, 205);
+}
+
+.box-conts
+{
+    position : absolute;
+    top : 50%;
+    left : 50%;
+    transform: translate(-50%, -50%);
+}
+
+.pass{
+    color: red !important;
+}
+
+#c0
+{
+    color : red;
+}
+
+#c1
+{
+    color: orangered;
+}
+
+#c2
+{
+    color: orange;
+}
+
+#c3
+{
+    color: yellowgreen;
+}
+
+#c4
+{
+    color: green;
+}
+#c9
+{
+    color:rgb(22, 21, 21)
+}
