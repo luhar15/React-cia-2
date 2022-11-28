@@ -10,10 +10,13 @@ import {
 function App() {
   return (
     <div className="App">
-      <h1>RAhul S Form</h1>
+      <h1>Colour Changer</h1>
+
       
     </div>
   );
 }
 
 export default App;
+
+

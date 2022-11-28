@@ -1,4 +1,4 @@
-.class{
+/* .class{
   bottom: 0;
 }
 ul{
@@ -22,4 +22,9 @@ li:hover{
   background-color: white;
   color: black;
   cursor: pointer;
+} */
+*{
+  background-color: bisque;
+  text-align: center;
+  
 }
